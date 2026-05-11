@@ -1,0 +1,30 @@
+html {
+  scroll-behavior: smooth;
+}
+
+/* Tailwind-friendly underline animation */
+.hover-underline-animation {
+  position: relative;
+  display: inline-block;
+}
+.hover-underline-animation::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -4px;
+  width: 100%;
+  height: 2px;
+  background: linear-gradient(90deg, #000000, #9e60d8, #ffffff);
+  transform: scaleX(0);
+  transform-origin: bottom right;
+  transition: transform 220ms ease-out;
+}
+.hover-underline-animation:hover::after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+
+.navbar-radial {
+  background: #EEAECA;
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
