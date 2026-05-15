@@ -115,7 +115,8 @@ http://localhost/HMS
 
 #Screenshots
 
-                                                                        Admin
+# Admin Screenshots
+
 <img width="1912" height="935" alt="Screenshot 2026-05-11 140256" src="https://github.com/user-attachments/assets/101b38bd-757b-41f1-886d-d5c30fa97083" />
 <img width="1912" height="936" alt="Screenshot 2026-05-11 140323" src="https://github.com/user-attachments/assets/71c777fc-95c2-4a8c-bf33-1da170e8d56c" />
 <img width="1912" height="935" alt="Screenshot 2026-05-11 140353" src="https://github.com/user-attachments/assets/b4dc2482-9322-4e7d-9d36-1669a78c51be" />
@@ -128,7 +129,7 @@ http://localhost/HMS
 <img width="1912" height="936" alt="Screenshot 2026-05-11 140751" src="https://github.com/user-attachments/assets/9c39e435-e6a4-4d63-8eb8-9453f4e00b37" />
 <img width="1917" height="932" alt="Screenshot 2026-05-11 140801" src="https://github.com/user-attachments/assets/75a7f750-ee3e-4abd-941a-8d19964b0f4a" />
  
-                                                                        User
+# User Screenshots
 <img width="1907" height="931" alt="Screenshot 2026-05-11 141313" src="https://github.com/user-attachments/assets/27cb987e-ee0c-4236-973b-936e3f74dc47" />
 <img width="1907" height="936" alt="Screenshot 2026-05-11 141329" src="https://github.com/user-attachments/assets/2e517618-1af2-46b9-80c2-89ede4d3ddce" />
 <img width="1908" height="938" alt="Screenshot 2026-05-11 141347" src="https://github.com/user-attachments/assets/a726e1a9-c6f4-48a0-b699-8bd4f9a37861" />
