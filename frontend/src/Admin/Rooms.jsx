@@ -1010,7 +1010,7 @@ const Room = () => {
           {
             label: "Total Rooms",
             value: roomStats.total,
-            subtext: "All hotel rooms",
+            subtext: "All hostel rooms",
           },
           {
             label: "Available",
