@@ -46,11 +46,13 @@ The system helps administrators manage hostel operations efficiently while also 
 * HTML
 * CSS
 * JavaScript
-* Bootstrap
+* React
+* Framer Motion
 
 ## Backend
 
 * PHP
+* Python
 
 ## Database
 
